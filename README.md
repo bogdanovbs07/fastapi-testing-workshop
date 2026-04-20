@@ -66,7 +66,6 @@ project/
    - Убедись что выбрано "Commit directly to the main branch"
    - Нажми **"Commit changes"**
 
-### Шаг 2: Создание requirements.txt
 
 1. Нажми **"Add file"** → **"Create new file"**
 
@@ -87,7 +86,6 @@ uvicorn==0.24.0
 
 4. Нажми **"Commit changes..."** → **"Commit changes"**
 
-### Шаг 3: Создание pytest.ini
 
 1. Нажми **"Add file"** → **"Create new file"**
 
